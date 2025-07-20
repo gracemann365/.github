@@ -1,6 +1,6 @@
 # Gracemann : " Engineering Determinism "
 
-**Collaborate:** [gracemann365@gmail.com](mailto:gracemann365@gmail.com)
+**Collaborate:** [gracemann365@gmail.com](mailto:gracemann365@gmail.com) <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="david-grace" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lnkd.in/g42WUi_8">David Grace</a></div>
 
 ---
 
