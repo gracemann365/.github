@@ -7,7 +7,6 @@
 ![An abstract image showing an ordered, glowing sphere emerging from chaos, representing the concept of engineering determinism.](https://github.com/gracemann365/epiphany-cli/blob/r%26d/docs/okk.gif)
 *<p align="center">[Jewels from chaos: A fascinating journey from abstract forms to physical objects](https://www.researchgate.net/publication/367404382_Jewels_from_chaos_A_fascinating_journey_from_abstract_forms_to_physical_objects)</p>*
 
-Here's the enriched abstract with integrated scientific citations and contextual nuance:
 
 ## Abstract  
 
@@ -32,35 +31,37 @@ By systematically modeling environmental dynamics using **[multi-agent architect
 3. **Deterministic crypto-economics**: Integrating [game-theoretic validation](https://oxfordre.com/economics/view/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-956) with AI forecasting  
 
 ## Research Mandate: Establishing Predictability  
-In operational landscapes with high-dimensional data flows and emergent interdependencies, Gracemann's mandate focuses on transforming chaotic systems into computationally tractable frameworks using [deterministic system theory](https://en.wikipedia.org/wiki/Deterministic_system) (). This eliminates stochastic influences to enable robust autonomous orchestration and decision-making, drawing from principles of [control theory for deterministic systems](https://research.tudelft.nl/en/publications/appendix-control-and-system-theory-of-deterministic-systems) ().
+In operational landscapes with high-dimensional data flows and emergent interdependencies, Gracemann's mandate focuses on transforming chaotic systems into computationally tractable frameworks using [deterministic system theory](https://en.wikipedia.org/wiki/Deterministic_system) This eliminates stochastic influences to enable robust autonomous orchestration and decision-making, drawing from principles of [control theory for deterministic systems](https://research.tudelft.nl/en/publications/appendix-control-and-system-theory-of-deterministic-systems) 
 
 ## Strategic Research Vectors  
 ### 2.1 Applied Crypto Engineering via LLM Augmentation  
-We address [Distributed Ledger Technology (DLT)](https://en.wikipedia.org/wiki/Distributed_ledger) volatility by leveraging **[Large Language Models (LLMs)](https://en.wikipedia.org/wiki/Large_language_model)** to forecast systemic outcomes and enforce algorithmic control. Our work integrates **cryptoeconomic principles** (e.g., incentive alignment, game-theoretic validation) () with LLM-driven pattern recognition to mitigate systemic risks in decentralized networks, informed by [cryptoeconomic stability research](https://openknowledge.worldbank.org/bitstreams/5166f335-35db-57d7-9c7e-110f7d018f79/download) ().
+We address [Distributed Ledger Technology (DLT)](https://en.wikipedia.org/wiki/Distributed_ledger) volatility by leveraging **[Large Language Models (LLMs)](https://en.wikipedia.org/wiki/Large_language_model)** to forecast systemic outcomes and enforce algorithmic control. Our work integrates **cryptoeconomic principles** (e.g., incentive alignment, game-theoretic validation)  with LLM-driven pattern recognition to mitigate systemic risks in decentralized networks, informed by [cryptoeconomic stability research](https://openknowledge.worldbank.org/bitstreams/5166f335-35db-57d7-9c7e-110f7d018f79/download) .
 
 **Key innovations**:  
-- **LLM-augmented forecasting**: Training specialized models on [DLT transaction patterns](https://arxiv.org/abs/2403.20208) ()  
-- **Consensus mechanisms**: Designing [incentive-compatible protocols](https://ieeexplore.ieee.org/document/8405611) ()  
-- **Cryptoeconomic resilience**: Stress-testing via [LLM-generated adversarial scenarios](https://proceedings.neurips.cc/paper_files/paper/2019/hash/8e6b42f1644ecb1327dc03ab345e618b-Abstract.html)  
+- **LLM-augmented forecasting**: Training specialized models on [DLT transaction patterns](https://arxiv.org/abs/2403.20208)   
+- **Consensus mechanisms**: Designing [incentive-compatible protocols](https://ieeexplore.ieee.org/document/8405611)   
+- **Cryptoeconomic resilience**: Stress-testing via [LLM-generated adversarial scenarios](https://proceedings.neurips.cc/paper_files/paper/2019/hash/8e6b42f1644ecb1327dc03ab345e618b-Abstract.html)
+
 
 ### 2.2 Deterministic AI & Automated Software Synthesis  
-We counter LLM non-determinism () through synthesis techniques that enforce deterministic behavior:  
+We counter LLM non-determinism  through synthesis techniques that enforce deterministic behavior:  
 
 | **Traditional LLMs** | **Deterministic Architectures** |  
 |----------------------|---------------------------------|  
-| Probabilistic output | [Fixed-outcome systems](https://www.sciencedirect.com/topics/computer-science/deterministic-approach) () |  
+| Probabilistic output | [Fixed-outcome systems](https://www.sciencedirect.com/topics/computer-science/deterministic-approach)  |  
 | Unauditable paths | [Formally verified reasoning chains](https://dl.acm.org/doi/10.1145/3580305) |  
 
 **Implementation**:  
-- **Synthetic code generation**: Producing [formally verified software](https://arxiv.org/abs/2007.10999) ()  
-- **Multi-agent consensus**: Eliminating conflicts via [Byzantine-tolerant architectures](https://arxiv.org/pdf/2409.11527.pdf) ()  
+- **Synthetic code generation**: Producing [formally verified software](https://arxiv.org/abs/2007.10999)   
+- **Multi-agent consensus**: Eliminating conflicts via [Byzantine-tolerant architectures](https://arxiv.org/pdf/2409.11527.pdf)   
 
 ## Flagship Research Project: [Epiphany CLI](https://github.com/gracemann365/epiphany)  
 `Epiphany CLI` implements deterministic AI through:  
 * **Deterministic pipelines**: Enforcing reproducibility via [retry logic](https://arxiv.org/abs/2305.15334)  
-* **Stochasticity mitigation**: Eliminating butterfly effects with [algorithmic safeguards](https://proceedings.mlr.press/v162/hatch22a.html)  
+* **Stochasticity mitigation**: Eliminating butterfly effects with [algorithmic safeguards](https://proceedings.mlr.press/v162/hatch22a.html)   
 
-![Epiphany CLI Architecture](https://pathway.com/assets/content/blogcenter">The Graph-Based, Multi-Agent Architecture of Epiphany CLI (Pathway Community)*  
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Lorenz_attractor_yb.svg" alt="Lorenz attractor visualization showing chaotic dynamics" width="800" height="400">
+<p align="center">Fusing Deterministic AI with Applied Crypto Engineering By Eliminating Influence of Butterfly effect</p>
 
 ## Research Infrastructure & Collaborative Framework
 
@@ -72,7 +73,7 @@ Our multi-layered architecture eliminates non-deterministic behavior through rig
 
 * **[Graph-Based Codebase Representation](https://neo4j.com/blog/developer/codebase-knowledge-graph/):** A **Typed Property Graph (TPG)** in Neo4j provides semantically rich, queryable software representations. This approach leverages **[knowledge graph embeddings](https://arxiv.org/abs/2002.00819)** to capture complex inter-module dependencies, enabling **provable code correctness** through graph-theoretic analysis and **[formal program verification](https://dl.acm.org/doi/10.1145/3453483.3454106)**.
 
-* **[Multi-Agent Cognitive Framework](https://en.wikipedia.org/wiki/Multi-agent_system) (Spectrum Persona Protocol):** A graph-directed system orchestrates specialized, **adversarially-collaborative AI agents** (Engineer and QA personas) that leverage both persistent semantic (TPG) and transient episodic memory. This implements **[Byzantine Agreement protocols](https://dl.acm.org/doi/10.1145/3087801.3087816)** ensuring consensus despite potentially malicious or faulty agents, while incorporating **[game-theoretic validation](https://www.cambridge.org/core/books/algorithmic-game-theory/8139A8B9E9D452F8BAE89D15E1117D1E)** mechanisms.
+* **[Multi-Agent Cognitive Framework](https://en.wikipedia.org/wiki/Multi-agent_system) ([Spectrum Persona Protocol](https://github.com/gracemann-rsh-own/delusions/blob/main/MultiAgentReasoning.md)):** A graph-directed system orchestrates specialized, **adversarially-collaborative AI agents** (Engineer and QA personas) that leverage both persistent semantic (TPG) and transient episodic memory. This implements **[Byzantine Agreement protocols](https://dl.acm.org/doi/10.1145/3087801.3087816)** ensuring consensus despite potentially malicious or faulty agents, while incorporating **[game-theoretic validation](https://www.cambridge.org/core/books/algorithmic-game-theory/8139A8B9E9D452F8BAE89D15E1117D1E)** mechanisms.
 
 * **Deterministic Execution & Validation Layer:** This critical layer incorporates **[Hallucination](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)) Probability Scoring (HPS)** using **[Monte Carlo Tree Search](https://ieeexplore.ieee.org/document/6145622)** for uncertainty quantification, and **[Abstract Syntax Tree (AST)](https://en.wikipedia.org/wiki/Abstract_syntax_tree)** Snapshotting with **atomic rollbacks**. All codebase mutations undergo **[formal verification](https://link.springer.com/book/10.1007/978-3-030-81685-8)** through **SMT solvers** and **model checking** to guarantee systemic integrity and **[temporal logic compliance](https://dl.acm.org/doi/10.1145/567446.567448)**.
 
