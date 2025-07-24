@@ -85,6 +85,13 @@ Our multi-layered architecture eliminates non-deterministic behavior through rig
 
 `Epiphany CLI` represents a paradigm shift towards **autonomous**, **formally verified**, and **cryptoeconomically incentivized** software engineering, combining **[theorem proving](https://coq.inria.fr/)** with **[distributed consensus](https://raft.github.io/)** for unprecedented reliability.
 
+
+Our commitment to this mandate is epitomized by `Epiphany CLI`, a command-line interface engineered for deterministic, multi-agent code reasoning. As an evolution of the Gemini CLI architecture, `Epiphany CLI` is designed to mitigate the inherent stochasticity of large language models.
+
+![A clean visualization of a complex graph network with nodes and edges, representing the core architecture of Epiphany CLI.](https://pathway.com/assets/content/blog/multi-agent-rag-system/11.png)
+<p align="center">The Graph-Based, Multi-Agent Architecture of Epiphany CLI credits : Pathway Community </p>
+
+
 ### 4. Invitation for Collaboration
 
 Gracemann actively solicits collaboration with researchers, principal engineers, and organizations aligned with our vision of **deterministic distributed systems**. We invite you to explore our research ecosystem:
