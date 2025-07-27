@@ -27,7 +27,7 @@ By systematically modeling environmental dynamics using **[multi-agent architect
   - [Formally verified synthesis](https://dl.acm.org/doi/10.1145/3580305) research  
   - [Stochasticity mitigation](https://proceedings.mlr.press/v162/hatch22a.html) in decentralized systems
 
-##  **Revenue Streams - An Approach For Self Sustainability **
+##  **Revenue Streams - An Approach For Self Sustainability**
 
 | Stream | Monthly Revenue Target | Annual Potential | Market Size | Complexity | R\&D Alignment |
 | :-- | :-- | :-- | :-- | :-- | :-- |
