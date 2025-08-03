@@ -31,13 +31,13 @@ By systematically modeling environmental dynamics using **[multi-agent architect
 
 | Stream | Monthly Revenue Target | Annual Potential | Market Size | Complexity | R\&D Alignment |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 🤖 AI Waifu/Daddy Services | \$30K - \$100K | \$360K - \$1.2M | \$28.19B (2024) | Medium | AI Empathy Research |
-| 💰 LLM Tokenomics Consulting | \$40K - \$80K | \$500K - \$1M | Growing Enterprise Need | High | LLM Optimization |
-| 🎯 Polymarket Predictions | \$25K - \$50K | \$300K - \$600K | \$1B+ Platform Volume | Medium | Predictive Analytics |
-| 💕 Dating Coaching | \$20K - \$40K | \$240K - \$480K | \$10B Market (2025) | Low | Social AI Research |
-| 🛡️ Cybersecurity Consulting | \$40K - \$80K | \$500K - \$1M | \$50B Market (2025) | High | Security Research |
-| ⚽ Sports Betting Consultation | \$15K - \$25K | \$180K - \$300K | \$6.91B India (2024) | Medium | Statistical Modeling |
-| ⚖️ Criminal Legal Consulting | \$60K - \$120K | \$720K - \$1.4M | \$2-4B Underserved Market | Very High | Legal AI Innovation |
+|  AI Waifu/Daddy Services | \$30K - \$100K | \$360K - \$1.2M | \$28.19B (2024) | Medium | AI Empathy Research |
+| LLM Tokenomics Consulting | \$40K - \$80K | \$500K - \$1M | Growing Enterprise Need | High | LLM Optimization |
+|  Polymarket Predictions | \$25K - \$50K | \$300K - \$600K | \$1B+ Platform Volume | Medium | Predictive Analytics |
+|  Dating Coaching | \$20K - \$40K | \$240K - \$480K | \$10B Market (2025) | Low | Social AI Research |
+|  Cybersecurity Consulting | \$40K - \$80K | \$500K - \$1M | \$50B Market (2025) | High | Security Research |
+|  Sports Betting Consultation | \$15K - \$25K | \$180K - \$300K | \$6.91B India (2024) | Medium | Statistical Modeling |
+|  Criminal Legal Consulting | \$60K - \$120K | \$720K - \$1.4M | \$2-4B Underserved Market | Very High | Legal AI Innovation |
 
 ## 🤖 **Stream 1: AI Waifu/Daddy Services**
 
