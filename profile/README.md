@@ -1,4 +1,4 @@
-# Gracemann 
+# Graceman
 
 ## " Engineering Determinism "
 
