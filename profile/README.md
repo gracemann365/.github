@@ -1,6 +1,7 @@
 # Graceman
 
 ## " Engineering Determinism "
+## Quant Trading | AGI | Defense Contracts ( US Army )
 
 **Collaborate:** [gracemann365@gmail.com](mailto:gracemann365@gmail.com) 
 
